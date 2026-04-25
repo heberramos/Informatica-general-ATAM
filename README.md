@@ -27,6 +27,21 @@ Cátedra Drelichman | ATAM | UNA
 
 ---
 
+## Declaración de uso de Inteligencia Artificial
+
+Durante la cursada se utilizó la herramienta de IA **Claude (Anthropic)** disponible en [claude.ai](https://claude.ai) como apoyo para el aprendizaje.
+
+Los usos incluyeron:
+
+- Generación de versiones alternativas de páginas HTML para comparar con el trabajo propio
+- Corrección y validación de código HTML
+- Consultas sobre estructura, etiquetas y buenas prácticas
+- Generación de contenido de ejemplo para prácticas específicas
+
+En todos los casos el trabajo de escritura, edición y comprensión del código fue realizado por el estudiante. La IA fue utilizada como herramienta de consulta y apoyo, no como reemplazo del aprendizaje propio.
+
+---
+
 ## Sobre este repositorio
 
 Trabajos prácticos realizados durante la cursada de Informática General 2026.  
